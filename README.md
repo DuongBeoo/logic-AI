@@ -11,3 +11,7 @@
 - Sử dụng ngăn xếp (`stack`) để lưu trữ toán hạng và toán tử.
 - Hàm `evaluateExpression`: Phân tích biểu thức và tính giá trị theo từng toán tử.
 - Đơn giản hóa logic: Trực tiếp xử lý biểu thức bằng cách duyệt từng ký tự.
+# **Câu 3**
+- Hai hàm `forall` và `exists` giúp mô phỏng các lượng từ phổ quát và tồn tại trong logic vị từ.
+- Chúng được kết hợp để đánh giá công thức logic phức tạp hơn với các miền giá trị và vị từ người dùng cung cấp.
+- Kết quả cuối cùng của công thức được in ra dưới dạng `Đúng` hoặc `Sai`.
